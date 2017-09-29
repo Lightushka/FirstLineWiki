@@ -1,4 +1,5 @@
-<!-- TITLE: Reglament -->
-<!-- SUBTITLE: A quick summary of Reglament -->
+<!-- TITLE: Регламент -->
+<!-- SUBTITLE: Реглмент службы заботы о клиентах -->
 
-# Header
+# Такая вот печаль
+Никого и ничего не жаль
